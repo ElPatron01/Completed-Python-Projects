@@ -1,9 +1,5 @@
 """ Implementation of a calculator which takes statistics about a given file"""
 
-__author__ = "6598477: Jannik Zorn, 6586227: Eric J. Herschbach"
-__copyright__ = "Copyright 2017/2018 – EPR-Goethe-Uni" 
-__email__ = "<Jannik@zorn.net>, <Eric.Herschbach@t-online.de>"
-
 file_to_read = input("Enter the name of the file you want to have statistics about: ")
 
 # - - - - - - - - - - - - - - - - - - CLASS/METHODS
